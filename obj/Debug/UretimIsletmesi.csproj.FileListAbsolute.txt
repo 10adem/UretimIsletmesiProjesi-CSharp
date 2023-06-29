@@ -1,0 +1,54 @@
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\bin\Debug\UretimIsletmesi.exe.config
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\bin\Debug\UretimIsletmesi.exe
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\bin\Debug\UretimIsletmesi.pdb
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.anasayfa.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.exe
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.pdb
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.isci_girisi.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.isci_paneli.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.formen_girisi.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.formen_paneli.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.mudur_girisi.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.mudur_paneli.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.isci_islemleri.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\Algoritma ve Veri Tabanı Final Ödevi\UretimIsletmesi\obj\Debug\UretimIsletmesi.formen_islemleri.resources
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\bin\Debug\UretimIsletmesi.exe.config
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\bin\Debug\UretimIsletmesi.exe
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\bin\Debug\UretimIsletmesi.pdb
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.anasayfa.resources
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.formen_girisi.resources
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.formen_islemleri.resources
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.formen_paneli.resources
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.isci_girisi.resources
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.isci_islemleri.resources
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.isci_paneli.resources
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.mudur_girisi.resources
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.mudur_paneli.resources
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.exe
+C:\Users\LENOVO\Desktop\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.pdb
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\bin\Debug\UretimIsletmesi.exe.config
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\bin\Debug\UretimIsletmesi.exe
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\bin\Debug\UretimIsletmesi.pdb
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.anasayfa.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.formen_girisi.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.formen_islemleri.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.formen_paneli.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.isci_girisi.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.isci_islemleri.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.isci_paneli.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.mudur_girisi.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.mudur_paneli.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.exe
+C:\Users\LENOVO\Desktop\Yönetim Bilişim Sistemleri 2. Sınıf Bahar Dönemi (Uzaktan)\VERİ TABANI YÖNETİM SİSTEMLERİ\AdemYıldız_213004014\UretimIsletmesi\obj\Debug\UretimIsletmesi.pdb
